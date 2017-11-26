@@ -1,0 +1,351 @@
+RowID,name,brand,color,freeShipping,inStock,avRating,reviewCount,listPrice,shippingPeriod,date,siteName,category,TimeNextPrice,group
+7766,"HTC Desire VC",HTC,,0,1,,,20174,"Normally Ships in 3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7767,"Micromax Punk A44",Micromax,,0,1,,,4299,"Normally Ships in 3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7768,"Micromax 3G Android Full Touch Phone...&nbsp;",Micromax,,1,2,0,0,5999,"9-10 Working Days","2012-11-07 04:02:00",HomeShop18,Mobiles,0.6,1
+7769,"Canon Camera with 16 MP & OVF&nbsp;",Canon,,1,2,0,0,5995,"8-9 Working Days","2012-10-26 03:21:00",HomeShop18,Cameras,6.06,1
+7770,"Micromax E390 CDMA Mobile Phone&nbsp;",Micromax,,1,2,0,0,3999,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7771,"Canon A2300 Digital Camera&nbsp;",Canon,,1,2,0,0,6300,"7-8 Working Days","2012-10-26 03:40:00",HomeShop18,Cameras,16.81,1
+7772,"Micromax X101 Mobile Phone - Black&nbsp;",Micromax,Black,1,1,0,0,989,"7-8 Working Days","2012-11-09 09:02:00",HomeShop18,Mobiles,4.57,1
+7773,"Lemon B129 Mobile Phone&nbsp;",Lemon,,1,2,0,0,999,"6-7 Working Days","2012-10-30 05:00:00",HomeShop18,Mobiles,13.36,1
+7774,"Nokia 808 Pureview",Nokia,,1,2,3,0,29999,"5-7 working days","2012-10-18 06:40:00",BuyThePrice,Mobiles,15.35,1
+7775,"Apple iPhone 4S-16GB (Black)",Apple,Black,1,1,,,39869,"5-7 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7776,"Apple iPhone 4S-16GB (White)",Apple,White,1,1,,,39869,"5-7 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7777,"Apple iPhone 5 - 16GB (Black)",Apple,Black,1,1,4,6,45500,"5-7 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+7778,"Apple iPhone 5 - 32GB (Black)",Apple,Black,1,2,5,4,52500,"5-7 business days","2012-11-15 06:22:00",Infibeam,Mobiles,0.04,1
+7779,"Apple iPhone 5 - 64GB (Black)",Apple,Black,1,2,5,3,59500,"5-7 business days","2012-11-15 06:23:00",Infibeam,Mobiles,0.04,1
+7780,"Fujifilm Finepix AX500 14MP Digital ...&nbsp;",Fujifilm,,1,2,0,0,4499,"5-6 Working Days","2012-10-26 03:40:00",HomeShop18,Cameras,16.81,1
+7781,"Fujifilm S-2980 14 MP Digital Camera&nbsp;",Fujifilm,,1,1,0,0,10999,"5-6 Working Days","2012-11-12 01:43:00",HomeShop18,Cameras,0.19,1
+7782,"Fujifilm C-25 12 MP Digital Camera&nbsp;",Fujifilm,,1,2,0,0,3535,"4-5 Working Days","2012-10-31 03:01:00",HomeShop18,Cameras,2.97,1
+7783,"Micromax Combo of Dual Sim Bar Phone...&nbsp;",Micromax,,1,1,0,0,1999,"4-5 Working Days","2012-11-14 03:23:00",HomeShop18,Mobiles,0.72,1
+7784,"Micromax Touch Qwerty & Slider Phone...&nbsp;",Micromax,,1,2,0,0,3999,"4-5 Working Days","2012-10-29 08:02:00",HomeShop18,Mobiles,1.79,1
+7785,"BlackBerry Torch 9810",BlackBerry,Black,0,1,,,26616,"4 Business Days","2012-11-13 07:03:00",Indiaplaza,Mobiles,1,1
+7786,"LG OPTIMUS BLACK P970",LG,Black,0,1,,,17473,"4 Business Days","2012-11-13 07:03:00",Indiaplaza,Mobiles,1,1
+7787,"LG P350",LG,,0,2,,,6560,"4 Business Days","2012-11-05 02:02:00",Indiaplaza,Mobiles,0,1
+7788,"LG Optimus L3 E400 (Black)",LG,Black,1,1,5,5,7129,"3-5 business days","2012-10-28 12:41:00",Infibeam,Mobiles,6.1,1
+7789,"HTC Wildfire S",HTC,,1,1,3,5,10199,"3-4 working days","2012-10-16 12:59:00",BuyThePrice,Mobiles,17.09,1
+7790,"Apple iPhone 4S 16GB",Apple,,1,1,4,2,44500,"3-4 working days","2012-10-27 01:13:00",BuyThePrice,Mobiles,0.07,1
+7791,"Apple iPhone 4S 64GB",Apple,,1,1,2,0,57500,"3-4 working days","2012-10-27 01:14:00",BuyThePrice,Mobiles,0.07,1
+7792,"Blackberry Bold 9650",Blackberry,Black,1,1,4,1,22638,"3-4 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+7793,"Blackberry Bold 9900",Blackberry,Black,1,1,3,0,32076,"3-4 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+7794,"Blackberry Torch 9860",Blackberry,Black,1,1,4,0,21839,"3-4 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+7795,"HTC Sensation Xe",HTC,,1,1,2,1,24884,"3-4 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+7796,"LG GSM Mobile P970",LG,,1,1,4,2,18995,"3-4 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7797,"Lava  KKT34+",Lava,"Black Silver",1,1,,,1935,"3 Business Days","2012-10-28 08:40:00",Saholic,Mobiles,17.89,1
+7798,"Apple iPhone 4 8GB",Apple,,0,2,,,26485,"3 Business Days","2012-11-06 01:00:00",Indiaplaza,Mobiles,0.04,1
+7799,"Apple iPhone 4S 16GB",Apple,,0,1,,,37890,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7800,"Apple iPhone 4S 32GB",Apple,,0,1,,,42600,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7801,"BlackBerry 9320",BlackBerry,Black,0,1,,,14920,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7802,"BlackBerry Bold 9790",BlackBerry,Black,0,1,,,25278,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7803,"BlackBerry Bold 9900",BlackBerry,Black,0,1,,,31648,"3 Business Days","2012-11-08 10:03:00",Indiaplaza,Mobiles,3.38,1
+7804,"BlackBerry Curve 8520",BlackBerry,Red,0,2,,,9595,"3 Business Days","2012-11-07 03:41:00",Indiaplaza,Mobiles,0,1
+7805,"BlackBerry Curve 9220",BlackBerry,Black,0,1,,,11198,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7806,"BlackBerry Curve 9300 3G",BlackBerry,Black,0,1,,,11198,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7807,"BlackBerry Curve 9360",BlackBerry,Black,0,1,,,17810,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7808,"BlackBerry Torch 9860",BlackBerry,Black,0,1,,,19978,"3 Business Days","2012-11-13 07:03:00",Indiaplaza,Mobiles,1,1
+7809,"Htc Chacha (Black Silver)",Htc,Black,0,1,,,11511,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7810,"Htc Chacha (White Silver )",Htc,White,0,1,,,11511,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7811,"HTC Desire C",HTC,,0,2,,,11974,"3 Business Days","2012-11-02 02:43:00",Indiaplaza,Mobiles,0.06,1
+7812,"HTC Desire V",HTC,Red,0,1,,,15608,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7813,"HTC Desire X",HTC,,0,2,,,19600,"3 Business Days","2012-11-07 02:20:00",Indiaplaza,Mobiles,0.06,1
+7814,"HTC Explorer",HTC,,0,1,,,8899,"3 Business Days","2012-11-13 07:03:00",Indiaplaza,Mobiles,1,1
+7815,"HTC One S",HTC,,0,2,,,23747,"3 Business Days","2012-11-12 04:02:00",Indiaplaza,Mobiles,0.01,1
+7816,"HTC One V",HTC,,0,1,,,17499,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7817,"HTC One X",HTC,,0,1,,,35198,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7818,"HTC Sensation XE With Beats Audio",HTC,Red,0,1,,,31355,"3 Business Days","2012-11-13 07:03:00",Indiaplaza,Mobiles,1,1
+7819,"HTC Sensation XL With Beats Audio",HTC,Red,0,2,,,35200,"3 Business Days","2012-11-05 01:20:00",Indiaplaza,Mobiles,0.03,1
+7820,"HTC Wildfire S",HTC,,0,1,,,13135,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7821,"iBall Andi 3e",IBall,,0,1,,,5899,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7822,"Intel Xolo X900",Intel,Gold,0,1,,,17500,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7823,"Karbonn  K 9",Karbonn,"Black & Red",1,1,,,1809,"3 Business Days","2012-10-25 08:11:00",Saholic,Mobiles,3.01,1
+7824,"Karbonn A1+",Karbonn,,0,1,,,4110,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7825,"Karbonn A11",Karbonn,Red,0,2,,,9400,"3 Business Days","2012-11-08 02:02:00",Indiaplaza,Mobiles,0.01,1
+7826,"Karbonn A21",Karbonn,,0,1,,,10790,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7827,"Karbonn A5",Karbonn,,0,1,,,5400,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+7828,"Karbonn A7",Karbonn,,0,2,,,6700,"3 Business Days","2012-11-08 01:42:00",Indiaplaza,Mobiles,0.03,1
+7829,"Karbonn A7+",Karbonn,Blue,0,1,,,6990,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7830,"Karbonn Groovster K52",Karbonn,,1,1,,,1599,"3 Business Days","2012-10-28 08:20:00",Saholic,Mobiles,5.67,1
+7831,"Lava  ARC04",Lava,Black,1,1,,,1485,"3 Business Days","2012-10-28 08:20:00",Saholic,Mobiles,5.67,1
+7832,"Lava  KKT34i",Lava,Silver,1,1,,,1908,"3 Business Days","2012-10-28 08:21:00",Saholic,Mobiles,2.6,1
+7833,"Lenovo Augusta A60+",Lenovo,Blue,0,1,,,6465,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7834,"Lenovo K860",Lenovo,,0,1,,,28288,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7835,"Lenovo Panama+ P700i",Lenovo,,0,1,,,12450,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7836,"Lenovo S560",Lenovo,,0,1,,,14450,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7837,"Lenovo S880",Lenovo,,0,1,,,18208,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7838,"LG Optimus 4X HD P880",LG,Red,0,1,,,27094,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7839,"LG Optimus Hub E510",LG,Red,0,2,,,10114,"3 Business Days","2012-11-05 12:42:00",Indiaplaza,Mobiles,0.07,1
+7840,"LG Optimus L3 Dual E405",LG,,0,1,,,8005,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7841,"LG Optimus L3 E400",LG,,0,1,,,7041,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7842,"LG Optimus L5 Dual E615",LG,,0,1,,,13096,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7843,"LG Optimus L5 E612",LG,Red,0,1,,,12123,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7844,"LG Optimus L7 P705",LG,,0,1,,,15482,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7845,"LG Optimus Net Dual P698",LG,,0,1,,,8897,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7846,"LG Optimus Sol E730",LG,Red,0,1,,,16874,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7847,"LG Optimus VU P895",LG,Red,0,1,,,30003,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+7848,"LG T515",LG,,0,1,,,4654,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7849,"Micromax  X320",Micromax,White,1,1,,,1699,"3 Business Days","2012-10-25 08:11:00",Saholic,Mobiles,3.01,1
+7850,"Micromax A110 SuperFone Canvas 2",Micromax,Red,0,1,,,10040,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7851,"MICROMAX A45",MICROMAX,Blue,0,1,,,4950,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7852,"Micromax Ninja 3 A57",Micromax,Red,0,1,,,5040,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7853,"Micromax Ninja 4.0 A87",Micromax,,0,1,,,6180,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7854,"AirTyme GTX75 TORRID (Green)",AirTyme,Green,2,2,4,16,1549,"2-3 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+7855,"AirTyme GTX75 TORRID (Orange)",AirTyme,Orange,2,2,4,15,1549,"2-3 business days","2012-11-07 07:23:00",Infibeam,Mobiles,2.79,1
+7856,"AirTyme GTX75 TORRID (Silver)",AirTyme,Silver,2,2,4,16,1549,"2-3 business days","2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7857,"Arise A51 (Black)",Arise,Black,1,1,,,859,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7858,"Arise A51 (White)",Arise,White,2,2,,,849,"2-3 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+7859,"Arise T20 (Black)",Arise,Black,1,1,4,2,1870,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7860,"Arise T20 (White)",Arise,White,1,1,4,2,1879,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7861,"BlackBerry 9320 (Black)",BlackBerry,Black,1,1,5,3,14489,"2-3 business days","2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7862,"HTC Desire C (Black)",HTC,Black,1,1,5,2,12400,"2-3 business days","2012-11-15 08:41:00",Infibeam,Mobiles,0.01,1
+7863,"iBall Andi 5c (Black)",IBall,Black,2,2,4,2,12490,"2-3 business days","2012-11-15 04:41:00",Infibeam,Mobiles,0.03,1
+7864,"Karbonn A5 (White)",Karbonn,White,1,1,4,4,5728,"2-3 business days","2012-11-15 08:03:00",Infibeam,Mobiles,0.03,1
+7865,"Karbonn A9 Dual Sim Smartphone (Ivory White) (White)",Karbonn,White,1,1,5,29,8399,"2-3 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+7866,"Micromax A110 Superfone Canvas 2 (Black)",Micromax,Black,2,2,,,9999,"2-3 business days","2012-11-15 06:43:00",Infibeam,Mobiles,0.03,1
+7867,"Micromax A25 Smarty (Black)",Micromax,Black,1,1,5,2,3299,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7868,"Micromax A87 (Black)",Micromax,Black,1,1,4,4,5799,"2-3 business days","2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+7869,"Micromax Aisha A52 (Yellow)",Micromax,Yellow,1,1,4,4,5159,"2-3 business days","2012-11-13 03:02:00",Infibeam,Mobiles,1,1
+7870,"Micromax X101 (White)",Micromax,White,1,1,5,2,990,"2-3 business days","2012-11-14 04:23:00",Infibeam,Mobiles,0.44,1
+7871,"Micromax X101 (Yellow)",Micromax,Yellow,1,1,5,2,998,"2-3 business days","2012-11-14 02:42:00",Infibeam,Mobiles,0.07,1
+7872,"Micromax X271 (Blue)",Micromax,Blue,1,2,,,1539,"2-3 business days","2012-11-06 12:20:00",Infibeam,Mobiles,0.06,1
+7873,"Micromax X271 (Red)",Micromax,Red,2,2,,,1479,"2-3 business days","2012-11-10 04:21:00",Infibeam,Mobiles,0.13,1
+7874,"HTC one X S720e",HTC,Brown,1,1,3,0,34599,"1-3 working days","2012-10-17 09:42:00",BuyThePrice,Mobiles,16.22,1
+7875,"iBall Andi 3e",IBall,,1,1,4,0,5999,"1-3 working days","2012-10-16 12:59:00",BuyThePrice,Mobiles,17.09,1
+7876,"Karbonn A11",Karbonn,White,1,1,4,0,8299,"1-3 working days","2012-10-16 12:58:00",BuyThePrice,Mobiles,17.08,1
+7877,"Motorola XT 800",Motorola,,1,1,3,0,9799,"1-3 working days","2012-10-17 09:42:00",BuyThePrice,Mobiles,16.22,1
+7878,"Acer E310 Liquid Mini",Acer,,1,2,4,1,8099,"1-3 working days","2012-10-17 08:01:00",BuyThePrice,Mobiles,7.51,1
+7879,"BlackBerry Curve 9220",BlackBerry,White,1,1,3,0,11444,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+7880,"HTC Desire C",HTC,"Stealth Black",1,1,4,0,14016,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.07,1
+7881,"HTC Explorer",HTC,White,1,1,3,0,8714,"1-3 working days","2012-11-02 02:40:00",BuyThePrice,Mobiles,0.06,1
+7882,"HTC One S",HTC,,1,1,4,0,31499,"1-3 working days","2012-11-02 08:01:00",BuyThePrice,Mobiles,0.33,1
+7883,"HTC one V T320e",HTC,,1,1,3,1,18479,"1-3 working days","2012-11-02 02:41:00",BuyThePrice,Mobiles,0.06,1
+7884,"Huawei Ascend G300 Smartphone",Huawei,"Dark Tarnish",1,2,4,0,9963,"1-3 working days","2012-11-02 03:00:00",BuyThePrice,Mobiles,12.7,1
+7885,"Huawei Ascend Y200 Smartphone",Huawei,,1,1,4,0,7559,"1-3 working days","2012-11-02 02:40:00",BuyThePrice,Mobiles,0.06,1
+7886,"iBall Andi 4d",IBall,,1,1,4,0,8399,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7887,"Karbonn A21",Karbonn,White,1,2,4,0,10184,"1-3 working days","2012-11-02 03:00:00",BuyThePrice,Mobiles,3.78,1
+7888,"Karbonn A5",Karbonn,,1,2,3,0,5249,"1-3 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,3.79,1
+7889,"Karbonn A7",Karbonn,,1,2,2,0,6999,"1-3 working days","2012-11-02 03:01:00",BuyThePrice,Mobiles,3.78,1
+7890,"Karbonn A9",Karbonn,,1,1,4,0,8180,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7891,"LAVA C31",LAVA,,1,1,3,0,2178,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7892,"LG Optimus 3D Max P725",LG,,1,1,4,0,29504,"1-3 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+7893,"LG Optimus 4X HD",LG,,1,1,4,0,28874,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+7894,"LG Optimus L3",LG,,1,1,4,0,7454,"1-3 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+7895,"LG Optimus L5 E612",LG,,1,1,3,0,12704,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+7896,"LG Optimus L7 P705",LG,,1,1,3,0,16475,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7897,"Micromax A78",Micromax,,1,2,3,0,6779,"1-3 working days","2012-11-02 04:03:00",BuyThePrice,Mobiles,0.46,1
+7898,"Canon IXUS 12 MP Digital Camera with...&nbsp;",Canon,,1,2,0,0,5599,"10-11 Working Days","2012-10-26 06:21:00",HomeShop18,Cameras,2.64,1
+7899,"Apple iPhone 4S 32GB",Apple,,1,2,3,1,50900,0,"2012-10-31 12:00:00",BuyThePrice,Mobiles,0.1,1
+7900,"Blackberry Curve 9320",Blackberry,Black,1,2,3,0,14805,0,"2012-11-13 05:40:00",BuyThePrice,Mobiles,0.15,1
+7901,"BlackBerry Porsche Design P9981",BlackBerry,Black,1,2,4,0,139990,0,"2012-10-27 01:12:00",BuyThePrice,Mobiles,0.07,1
+7902,"HTC Desire V",HTC,White,1,2,3,0,16064,0,"2012-11-08 02:42:00",BuyThePrice,Mobiles,0.18,1
+7903,"HTC Rhyme",HTC,,1,2,2,1,18599,0,"2012-10-30 03:41:00",BuyThePrice,Mobiles,0.13,1
+7904,"Micromax Smarty A25",Micromax,,1,2,3,0,4011,0,"2012-11-08 06:02:00",BuyThePrice,Mobiles,0.15,1
+7905,"Karbonn A1+ (White)",Karbonn,White,1,2,2,2,3990,,"2012-11-10 06:23:00",Infibeam,Mobiles,4.36,1
+7906,"Airtyme Flaunt (Black)",Airtyme,Black,1,1,4,1,2399,,"2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+7907,"Apple iPhone 5",Apple,,0,1,,,45500,,"2012-10-29 07:01:00",Indiaplaza,Mobiles,0.03,1
+7908,"Apple iPhone 5 16GB",Apple,,0,1,,,45500,,"2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7909,"Apple iPhone 5 32GB",Apple,,0,1,,,52500,,"2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7910,"Apple iPhone 5 64GB",Apple,,0,1,,,59500,,"2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+7911,"BlackBerry Curve 8520 (Black)",BlackBerry,Black,2,2,4,7,8380,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7912,"BlackBerry Curve 9220 (Black)",BlackBerry,Black,1,1,5,2,10419,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+7913,"HTC ChaCha (Black)",HTC,Black,1,1,3,2,9989,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7914,"HTC ChaCha (Silver)",HTC,Silver,1,1,3,2,10199,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7915,"HTC Desire V (Black)",HTC,Black,1,1,4,3,15699,,"2012-11-09 03:04:00",Infibeam,Mobiles,6,1
+7916,"HTC Desire V (White)",HTC,White,1,1,4,3,15699,,"2012-11-09 03:04:00",Infibeam,Mobiles,6,1
+7917,"HTC Explorer (Royal Black)",HTC,Black,1,1,4,3,8099,,"2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7918,"HTC Explorer (White)",HTC,White,1,1,4,3,7949,,"2012-11-15 08:23:00",Infibeam,Mobiles,0.05,1
+7919,"HTC One V (Jupitor Rock) (Grey)",HTC,"Jupitor Rock",1,1,5,2,16499,,"2012-11-15 08:23:00",Infibeam,Mobiles,0.03,1
+7920,"HTC ONE X (White)",HTC,White,1,1,5,2,37399,,"2012-11-15 08:03:00",Infibeam,Mobiles,0.03,1
+7921,"HTC Wildfire S (Grey)",HTC,Grey,1,2,5,6,10149,,"2012-11-15 08:21:00",Infibeam,Mobiles,0,1
+7922,"HTC Wildfire S (White)",HTC,White,1,1,5,6,10149,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7923,"iBall Senior Aasaan (White)",IBall,White,1,1,4,6,2570,,"2012-11-09 03:05:00",Infibeam,Mobiles,6,1
+7924,"iBall Sleec Thin (Black)",IBall,Black,1,1,3,1,1899,,"2012-11-15 08:22:00",Infibeam,Mobiles,0.01,1
+7925,"iBall Sleec Thin (White)",IBall,White,1,1,3,1,1899,,"2012-11-14 04:23:00",Infibeam,Mobiles,0.44,1
+7926,"Intex Charm (Black)",Intex,Black,2,2,4,9,887,,"2012-11-07 07:00:00",Infibeam,Mobiles,5.78,1
+7927,"Karbonn A18 (Black)",Karbonn,Black,2,2,4,9,9499,,"2012-11-15 08:22:00",Infibeam,Mobiles,0.06,1
+7928,"Karbonn A21 (White)",Karbonn,White,2,1,,,9849,,"2012-11-15 06:23:00",Infibeam,Mobiles,0.08,1
+7929,"Karbonn A7 (White)",Karbonn,White,1,1,5,5,6659,,"2012-11-09 05:41:00",Infibeam,Mobiles,0.33,1
+7930,"Karbonn A7+ (Black)",Karbonn,Black,1,1,4,7,8719,,"2012-11-15 03:01:00",Infibeam,Mobiles,0.22,1
+7931,"Lava KKT 11 Plus (Red)",Lava,Red,1,1,5,1,1235,,"2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7932,"Micromax A55 bling 2 (White)",Micromax,White,2,2,3,1,3820,,"2012-11-02 12:42:00",Infibeam,Mobiles,0.01,1
+7933,"Micromax M2 (Grey)",Micromax,Grey,1,1,4,83,1899,,"2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+7934,"Micromax M2 (Orange)",Micromax,Orange,2,2,4,83,1584,,"2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+7935,"Micromax Ninja 3 A57 (Black)",Micromax,Black,1,1,3,2,4899,,"2012-11-15 08:43:00",Infibeam,Mobiles,0.04,1
+7936,"Micromax Q66 (Black)",Micromax,Black,1,1,5,1,2429,,"2012-11-15 08:03:00",Infibeam,Mobiles,0.03,1
+7937,"Micromax Q75",Micromax,Black,2,2,5,5,2369,,"2012-11-05 03:02:00",Infibeam,Mobiles,1,1
+7938,"Micromax Q80 with 3G Wifi",Micromax,"Graphite Black",2,2,4,23,2750,,"2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+7939,"Micromax X222 (White)",Micromax,White,1,1,5,9,2029,,"2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7940,"Nikon Coolpix L810 Digital Camera&nbsp;",Nikon,,1,2,0,0,13530,"8-9 Working Days","2012-11-12 01:43:00",HomeShop18,Cameras,0.19,1
+7941,"Nokia 100 Mobile Phone&nbsp;",Nokia,,1,2,0,0,1179,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7942,"Nokia 110 Mobile Phone&nbsp;",Nokia,,1,2,0,0,2258,"8-9 Working Days","2012-11-12 01:41:00",HomeShop18,Mobiles,0.18,1
+7943,"Nokia 1280 Mobile Phone&nbsp;",Nokia,,1,2,0,0,999,"8-9 Working Days","2012-11-12 01:41:00",HomeShop18,Mobiles,0.19,1
+7944,"Nokia X2-02 Mobile Phone&nbsp;",Nokia,,1,2,0,0,3269,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7945,"Samsung Champ 3.5G S3770 Mobile Phon...&nbsp;",Samsung,,1,2,0,0,4990,"8-9 Working Days","2012-11-12 01:41:00",HomeShop18,Mobiles,0.19,1
+7946,"Samsung Chat 322 Mobile Phone (Witho...&nbsp;",Samsung,,1,2,0,0,3669,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7947,"Samsung Galaxy Ace S5830 Mobile Phon...&nbsp;",Samsung,,1,2,0,0,10500,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.19,1
+7948,"Samsung Galaxy S2 (I9100) Mobile Pho...&nbsp;",Samsung,,1,2,0,0,25900,"8-9 Working Days","2012-11-12 01:41:00",HomeShop18,Mobiles,0.19,1
+7949,"Samsung Galaxy S3 i9300 Mobile Phone...&nbsp;",Samsung,,1,2,0,0,34900,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7950,"Samsung Galaxy Y S5360 Mobile Phone&nbsp;",Samsung,,1,2,0,0,7090,"8-9 Working Days","2012-11-12 01:41:00",HomeShop18,Mobiles,0.19,1
+7951,"Samsung Metro Duos C3322 Mobile Phon...&nbsp;",Samsung,,1,2,0,0,3150,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7952,"Sony Xperia S (LT26i) Mobile Phone&nbsp;",Sony,,1,2,0,0,28199,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.19,1
+7953,"Sony Xperia U Mobile Phone&nbsp;",Sony,,1,2,0,0,14990,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7954,"Videocon V1805 Mobile Phone&nbsp;",Videocon,,1,1,0,0,2299,"8-9 Working Days","2012-11-12 01:40:00",HomeShop18,Mobiles,0.18,1
+7955,"Nikon Coolpix L25 Digital Camera&nbsp;",Nikon,,1,2,0,0,4355,"7-8 Working Days","2012-10-27 01:19:00",HomeShop18,Cameras,10.47,1
+7956,"Nikon Coolpix L310 Digital Camera&nbsp;",Nikon,,1,1,0,0,11590,"7-8 Working Days","2012-10-26 03:20:00",HomeShop18,Cameras,16.79,1
+7957,"Nikon Coolpix S4300 Digital Camera&nbsp;",Nikon,,1,2,0,0,7710,"7-8 Working Days","2012-10-26 03:21:00",HomeShop18,Cameras,16.79,1
+7958,"Nikon Coolpix S9200 Digital Camera&nbsp;",Nikon,,1,2,0,0,15470,"7-8 Working Days","2012-11-01 05:00:00",HomeShop18,Cameras,10.74,1
+7959,"Nikon Coolpix S9300 Digital Camera&nbsp;",Nikon,,1,2,0,0,16440,"7-8 Working Days","2012-11-01 05:00:00",HomeShop18,Cameras,10.74,1
+7960,"Nikon Coolpix L26 16.1 MP Digital Ca...&nbsp;",Nikon,,1,2,0,0,5290,"6-7 Working Days","2012-11-12 01:42:00",HomeShop18,Cameras,0.19,1
+7961,"Nokia 112 Mobile Phone - Dark Grey&nbsp;",Nokia,Grey,1,1,0,0,2594,"6-7 Working Days","2012-10-31 03:01:00",HomeShop18,Mobiles,12.14,1
+7962,"Nokia Asha 200 Mobile Phone&nbsp;",Nokia,,1,2,0,0,4069,"6-7 Working Days","2012-10-31 02:44:00",HomeShop18,Mobiles,12.14,1
+7963,"Nokia Asha 305 Mobile Phone - Grey&nbsp;",Nokia,Grey,1,2,0,0,4709,"6-7 Working Days","2012-10-30 04:42:00",HomeShop18,Mobiles,13.37,1
+7964,"Nokia C2-03 Touch and Type Mobile Ph...&nbsp;",Nokia,,1,2,0,0,3839,"6-7 Working Days","2012-10-29 05:45:00",HomeShop18,Mobiles,3.5,1
+7965,"Samsung Galaxy Ace Plus S7500 Mobile...&nbsp;",Samsung,,1,2,0,0,15499,"6-7 Working Days","2012-10-31 03:01:00",HomeShop18,Mobiles,12.14,1
+7966,"Samsung Galaxy Y Color Plus S5360 Mo...&nbsp;",Samsung,,1,2,0,0,7890,"6-7 Working Days","2012-10-31 02:43:00",HomeShop18,Mobiles,12.14,1
+7967,"Samsung Galaxy Y Duos S6102 Mobile P...&nbsp;",Samsung,,1,2,0,0,8490,"6-7 Working Days","2012-11-08 06:20:00",HomeShop18,Mobiles,3.81,1
+7968,"Sony Xperia Pro MK16i Mobile Phone&nbsp;",Sony,,1,2,0,0,15599,"6-7 Working Days","2012-11-09 12:43:00",HomeShop18,Mobiles,3.22,1
+7969,"Videocon V1575 Mobile Phone&nbsp;",Videocon,,1,2,0,0,1999,"6-7 Working Days","2012-11-08 06:21:00",HomeShop18,Mobiles,3.81,1
+7970,"Sony Xperia Tipo Dual",Sony,Red,0,1,,,9899,"6 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+7971,"Samsung Galaxy Note White N7000",Samsung,White,1,2,3,2,31490,"5-7 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7972,"Samsung PL 20 14.2 MP Digital Camera&nbsp;",Samsung,,1,2,0,0,4999,"5-6 Working Days","2012-11-12 01:42:00",HomeShop18,Cameras,0.19,1
+7973,"Sony Cybershot DSC - S5000 Digital C...&nbsp;",Sony,,1,2,0,0,5355,"5-6 Working Days","2012-11-12 01:42:00",HomeShop18,Cameras,0.19,1
+7974,"Sony Cybershot DSC - W610 Digital Ca...&nbsp;",Sony,,1,2,0,0,6365,"5-6 Working Days","2012-11-12 01:43:00",HomeShop18,Cameras,0.19,1
+7975,"Sony CyberShot DSC-H90 Digital Camer...&nbsp;",Sony,,1,2,0,0,12700,"5-6 Working Days","2012-11-12 01:43:00",HomeShop18,Cameras,0.19,1
+7976,"Olympus VG 150 Digital Camera&nbsp;",Olympus,,1,2,0,0,4399,"4-5 Working Days","2012-11-05 08:41:00",HomeShop18,Cameras,7.07,1
+7977,"Sony Cybershot DSC - W620 Digital Ca...&nbsp;",Sony,,1,2,0,0,6800,"4-5 Working Days","2012-11-06 03:01:00",HomeShop18,Cameras,6.14,1
+7978,"Sony CyberShot DSC-HX10V Digital Cam...&nbsp;",Sony,,1,2,0,0,16600,"4-5 Working Days","2012-10-27 03:21:00",HomeShop18,Cameras,16.13,1
+7979,"Sony CyberShot DSC-WX50 Digital Came...&nbsp;",Sony,,1,2,0,0,11920,"4-5 Working Days","2012-11-01 05:00:00",HomeShop18,Cameras,10.74,1
+7980,"Zen Full Touch Dual Sim Phone - M28&nbsp;",Zen,,1,2,0,0,1999,"4-5 Working Days","2012-10-26 06:20:00",HomeShop18,Mobiles,4.86,1
+7981,"Samsung Galaxy S III (Blue)",Samsung,Blue,1,1,5,5,34900,"4-5 business days","2012-11-13 01:43:00",Infibeam,Mobiles,0.55,1
+7982,"Samsung Galaxy S III (White)",Samsung,White,1,1,4,5,34900,"4-5 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+7983,"Samsung Galaxy Y Duos Lite S5302 (Black)",Samsung,Black,1,1,5,2,6990,"3-5 business days","2012-11-01 03:03:00",Infibeam,Mobiles,8.93,1
+7984,"Samsung Galaxy Y Duos Lite S5302 (White)",Samsung,White,1,1,5,2,6990,"3-5 business days","2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+7985,"Nokia lumia 800",Nokia,,1,2,4,2,18449,"3-4 working days","2012-10-25 08:25:00",BuyThePrice,Mobiles,8.28,1
+7986,"Nokia N8",Nokia,,1,1,3,1,18865,"3-4 working days","2012-10-16 12:59:00",BuyThePrice,Mobiles,17.09,1
+7987,"Motorola Atrix 2",Motorola,,1,1,2,2,23100,"3-4 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7988,"Motorola Fire",Motorola,,1,1,2,1,7821,"3-4 working days","2012-11-02 08:01:00",BuyThePrice,Mobiles,0.33,1
+7989,"Nokia N 500",Nokia,,1,1,4,0,9554,"3-4 working days","2012-11-02 02:41:00",BuyThePrice,Mobiles,0.06,1
+7990,"Nokia N 700",Nokia,,1,1,3,0,13754,"3-4 working days","2012-11-02 08:01:00",BuyThePrice,Mobiles,0.28,1
+7991,"Nokia N 701",Nokia,,1,1,4,0,18618,"3-4 working days","2012-11-02 02:40:00",BuyThePrice,Mobiles,0.06,1
+7992,"Samsung Galaxy Ace S5830",Samsung,,1,1,4,9,11025,"3-4 working days","2012-11-09 11:00:00",BuyThePrice,Mobiles,0.51,1
+7993,"Samsung Galaxy Note",Samsung,,1,1,3,9,31490,"3-4 working days","2012-11-02 08:00:00",BuyThePrice,Mobiles,0.33,1
+7994,"Samsung Galaxy Note 800",Samsung,,1,1,3,0,39375,"3-4 working days","2012-11-02 02:40:00",BuyThePrice,Mobiles,0.06,1
+7995,"Sony Ericsson Xperia Mini ST15i","Sony Ericsson",,1,1,3,1,11865,"3-4 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7996,"Sony Erricsson SK17i",Sony,,1,1,4,0,12705,"3-4 working days","2012-11-02 02:40:00",BuyThePrice,Mobiles,0.06,1
+7997,"Sony Xperia Tipo Dual",Sony,Silver,1,1,4,0,10394,"3-4 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+7998,"Samsung Galaxy Note 2 (II) (Grey)",Samsung,Grey,1,1,5,4,36900,"3-4 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+7999,"Samsung Galaxy Note 2 (II) (White)",Samsung,White,1,1,5,4,36900,"3-4 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8000,"Samsung Hero E2232",Samsung,Black,1,1,,,1999,"3 Business Days","2012-10-28 08:40:00",Saholic,Mobiles,17.89,1
+8001,"Spice Samba M-5560",Spice,Red,1,1,,,1999,"3 Business Days","2012-10-28 08:40:00",Saholic,Mobiles,17.89,1
+8002,"MOTOROLA ATRIX-2 with EA GAMES",MOTOROLA,,0,2,,,22368,"3 Business Days","2012-11-07 02:41:00",Indiaplaza,Mobiles,0.04,1
+8003,"Motorola Defy Plus",Motorola,,0,2,,,14200,"3 Business Days","2012-11-08 01:23:00",Indiaplaza,Mobiles,0.01,1
+8004,"Motorola RAZR XT910",Motorola,Red,0,1,,,28590,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+8005,"Nokia Asha 302",Nokia,,0,1,,,6350,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8006,"Nokia Asha 311",Nokia,Blue,0,1,,,6492,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8007,"Nokia C5-05",Nokia,,0,1,,,6254,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8008,"Nokia E5",Nokia,Black,0,2,,,9468,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,0.02,1
+8009,"Nokia Lumia 710",Nokia,Black,0,1,,,15302,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+8010,"Nokia Lumia 800",Nokia,Black,0,1,,,23650,"3 Business Days","2012-11-14 07:00:00",Indiaplaza,Mobiles,1,1
+8011,"Nokia Lumia 900",Nokia,,0,2,,,31196,"3 Business Days","2012-10-31 05:22:00",Indiaplaza,Mobiles,0.03,1
+8012,"Nokia N8",Nokia,,0,1,,,18932,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8013,"Samsung Champ Neo Duos C3262",Samsung,,0,1,,,2990,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8014,"Samsung Galaxy Ace Duos S6802",Samsung,,0,1,,,11900,"3 Business Days","2012-11-14 06:40:00",Indiaplaza,Mobiles,0.52,1
+8015,"Samsung Galaxy Ace Plus S7500",Samsung,Black,0,1,,,15500,"3 Business Days","2012-11-15 07:42:00",Indiaplaza,Mobiles,0.07,1
+8016,"Samsung Galaxy Ace S5830",Samsung,,0,1,,,10500,"3 Business Days","2012-11-12 07:03:00",Indiaplaza,Mobiles,1,1
+8017,"Samsung Galaxy Chat B5330",Samsung,,0,1,,,8490,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8018,"Samsung Galaxy Note (N-7000)",Samsung,,0,1,,,29990,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8019,"Samsung Galaxy Note II N7100",Samsung,,0,1,,,36900,"3 Business Days","2012-11-15 07:43:00",Indiaplaza,Mobiles,0.07,1
+8020,"Samsung Galaxy Pocket S5300",Samsung,,0,1,,,6990,"3 Business Days","2012-11-15 07:23:00",Indiaplaza,Mobiles,0.08,1
+8021,"Samsung Galaxy S Advance i9070",Samsung,,0,2,,,19500,"3 Business Days","2012-11-12 09:03:00",Indiaplaza,Mobiles,0.04,1
+8022,"Samsung Galaxy S Duos S7562",Samsung,Red,0,1,,,16900,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8023,"Samsung Galaxy SII I9100",Samsung,Red,0,1,,,25900,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8024,"Samsung Galaxy SIII - I9300 16 GB",Samsung,,0,1,,,34900,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8025,"Samsung Galaxy SIII - I9300 32 GB",Samsung,,0,2,,,37900,"3 Business Days","2012-11-03 04:01:00",Indiaplaza,Mobiles,0.22,1
+8026,"Samsung Galaxy Y CDMA I509",Samsung,,0,1,,,7490,"3 Business Days","2012-11-15 07:23:00",Indiaplaza,Mobiles,0.08,1
+8027,"Samsung Galaxy Y DUOS Lite S5302",Samsung,,0,1,,,6790,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8028,"Samsung Galaxy Y DUOS S6102",Samsung,,0,1,,,8490,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8029,"Samsung Omnia M",Samsung,,0,2,,,15900,"3 Business Days","2012-10-30 05:43:00",Indiaplaza,Mobiles,0.23,1
+8030,"Sony Ericsson Xperia Pro (MK16i)","Sony Ericsson",,0,2,,,16900,"3 Business Days","2012-11-06 12:42:00",Indiaplaza,Mobiles,0.01,1
+8031,"Sony Xperia Go",Sony,,0,1,,,17526,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8032,"Sony Xperia Ion",Sony,,0,1,,,32085,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8033,"Sony Xperia Miro",Sony,,0,1,,,14499,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8034,"Sony Xperia Neo L",Sony,,0,1,,,18015,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8035,"Sony Xperia P",Sony,Red,0,1,,,22379,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8036,"Sony Xperia SL",Sony,Red,0,1,,,30999,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8037,"Sony Xperia Sola",Sony,,0,1,,,19471,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8038,"Sony Xperia Tipo",Sony,Red,0,1,,,9280,"3 Business Days","2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8039,"Sony Xperia U",Sony,,0,1,,,14614,"3 Business Days","2012-11-14 07:03:00",Indiaplaza,Mobiles,1,1
+8040,"Spice  M-5005",Spice,Black+Blue,1,1,,,1029,"3 Business Days","2012-10-28 08:20:00",Saholic,Mobiles,5.65,1
+8041,"Spice Mi 320",Spice,,0,1,,,4907,"3 Business Days","2012-11-14 07:02:00",Indiaplaza,Mobiles,1,1
+8042,"Motorola Atrix 2 (Black)",Motorola,Black,1,1,5,8,19999,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+8043,"Motorola Defy XT Mobile Phone (Black)",Motorola,Black,1,1,5,3,14889,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+8044,"Nokia Asha 305 Dual SIM (Grey)",Nokia,Grey,1,1,4,4,4589,"2-3 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8045,"Nokia Asha 305 Dual SIM (Red)",Nokia,Red,1,1,4,4,4589,"2-3 business days","2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8046,"Nokia Asha 311 (Grey)",Nokia,Grey,1,1,4,3,6399,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+8047,"Samsung Galaxy Ace S5830 (Black)",Samsung,Black,1,1,4,14,10300,"2-3 business days","2012-11-14 06:43:00",Infibeam,Mobiles,0.35,1
+8048,"Samsung Galaxy Ace S5830 (White)",Samsung,White,1,1,4,14,10300,"2-3 business days","2012-11-14 04:41:00",Infibeam,Mobiles,0.43,1
+8049,"Samsung Galaxy S Duos S7562 (White)",Samsung,White,1,1,4,3,16990,"2-3 business days","2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8050,"Samsung Star 3 Duos S5222 (Black)",Samsung,Black,1,1,,,4690,"2-3 business days","2012-11-06 06:42:00",Infibeam,Mobiles,2.85,1
+8051,"Sony Xperia P (Black)",Sony,Black,1,1,5,1,22199,"2-3 business days","2012-11-09 03:04:00",Infibeam,Mobiles,1,1
+8052,"Sony Xperia Tipo (Black)",Sony,Black,2,2,5,2,9199,"2-3 business days","2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8053,"Sony Xperia U (Black)",Sony,Black,1,1,,,16759,"2-3 business days","2012-11-15 09:01:00",Infibeam,Mobiles,0.03,1
+8054,"Soyer A222 (Red)",Soyer,Red,1,1,,,1050,"2-3 business days","2012-11-14 03:02:00",Infibeam,Mobiles,1,1
+8055,"Nokia Asha 311",Nokia,Black,1,1,2,0,6279,"1-3 working days","2012-10-19 03:23:00",BuyThePrice,Mobiles,14.48,1
+8056,"Samsung Galaxy S Duos S7562",Samsung,,1,1,3,0,16990,"1-3 working days","2012-10-16 12:58:00",BuyThePrice,Mobiles,17.08,1
+8057,"Sony Xperia P",Sony,,1,1,4,0,21999,"1-3 working days","2012-10-25 08:24:00",BuyThePrice,Mobiles,8.26,1
+8058,"Sony Xperia SL",Sony,Black,1,1,4,0,30999,"1-3 working days","2012-10-16 12:59:00",BuyThePrice,Mobiles,17.08,1
+8059,"Nokia Asha 303",Nokia,,1,1,4,0,7821,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.07,1
+8060,"Nokia Lumia 610",Nokia,Blue,1,1,3,0,12452,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+8061,"Samsung Galaxy Note 2",Samsung,,1,1,3,0,39900,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+8062,"Samsung Galaxy Pocket S5300",Samsung,,1,1,3,0,6614,"1-3 working days","2012-11-02 08:03:00",BuyThePrice,Mobiles,0.28,1
+8063,"Samsung Galaxy S Advance GT-I9070",Samsung,,1,1,4,0,20475,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+8064,"Samsung Galaxy S3",Samsung,Blue,1,1,4,0,36645,"1-3 working days","2012-11-02 02:41:00",BuyThePrice,Mobiles,0.06,1
+8065,"Samsung Galaxy S3 32GB",Samsung,,1,1,3,0,39795,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+8066,"Samsung Omnia M S7530",Samsung,,1,1,3,0,16695,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+8067,"Sony Xperia Go",Sony,,1,1,3,0,17840,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+8068,"Sony Xperia Miro",Sony,,1,1,4,0,14594,"1-3 working days","2012-11-02 05:02:00",BuyThePrice,Mobiles,0.11,1
+8069,"Sony Xperia S LT26i",Sony,,1,1,3,2,30564,"1-3 working days","2012-11-02 02:23:00",BuyThePrice,Mobiles,0.07,1
+8070,"Sony Xperia Sola",Sony,,1,1,4,0,19949,"1-3 working days","2012-11-02 02:41:00",BuyThePrice,Mobiles,0.06,1
+8071,"Sony Xperia Tipo",Sony,White,1,1,3,0,9974,"1-3 working days","2012-11-02 02:43:00",BuyThePrice,Mobiles,0.07,1
+8072,"Videocon Mobile V7400",Videocon,,1,1,3,0,4094,"1-3 working days","2012-11-02 02:42:00",BuyThePrice,Mobiles,0.07,1
+8073,"Xolo X900",Xolo,,1,1,3,0,17499,"1-3 working days","2012-11-08 06:02:00",BuyThePrice,Mobiles,0.15,1
+8074,"Sony Xperia Neo L",Sony,,1,2,3,0,18499,0,"2012-10-25 08:25:00",BuyThePrice,Mobiles,8.28,1
+8075,"Motorola Defy Mini",Motorola,,1,2,3,0,10790,0,"2012-11-02 02:42:00",BuyThePrice,Mobiles,0.07,1
+8076,"Nokia Lumia 900",Nokia,Black,1,2,4,0,32024,0,"2012-11-02 02:40:00",BuyThePrice,Mobiles,0.06,1
+8077,"Samsung Galaxy Ace S5830 White",Samsung,White,1,2,4,0,11025,0,"2012-11-02 08:01:00",BuyThePrice,Mobiles,0.28,1
+8078,"Sony Ericsson Xperia Neo V","Sony Ericsson",,1,2,4,7,18164,0,"2012-11-06 01:45:00",BuyThePrice,Mobiles,0.32,1
+8079,"Sony Xperia Ion LTE",Sony,,1,2,3,0,35699,0,"2012-11-02 02:42:00",BuyThePrice,Mobiles,0.06,1
+8080,"Micromax X291 (White)",Micromax,White,1,1,,,1909,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8081,"Micromax X650 (White)",Micromax,White,1,1,4,1,3499,,"2012-11-07 03:05:00",Infibeam,Mobiles,1,1
+8082,"Motorola Defy Plus (Black)",Motorola,Black,2,2,5,33,12899,,"2012-11-10 03:23:00",Infibeam,Mobiles,1.26,1
+8083,"Motorola Defy Plus (Grey)",Motorola,Grey,2,2,5,33,12899,,"2012-11-05 03:03:00",Infibeam,Mobiles,1,1
+8084,"Motorola EX226 (Black)",Motorola,Black,2,2,,,4599,,"2012-10-31 03:02:00",Infibeam,Mobiles,1,1
+8085,"Motorola Fire XT311 (Black)",Motorola,Black,2,2,4,7,6549,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8086,"Motorola Milestone XT800 (Black)",Motorola,Black,1,1,5,1,9489,,"2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+8087,"Nokia 100 (Legion Blue)",Nokia,"Legion Blue",1,1,4,2,1215,,"2012-11-08 03:03:00",Infibeam,Mobiles,1,1
+8088,"Nokia 101 (Black)",Nokia,Black,1,1,4,3,1529,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8089,"Nokia 1280 (Black)",Nokia,Black,1,1,5,4,1049,,"2012-10-20 03:02:00",Infibeam,Mobiles,9.15,1
+8090,"Nokia Lumia 610",Nokia,Red,0,1,,,12445,,"2012-11-14 07:01:00",Indiaplaza,Mobiles,1,1
+8091,"Nokia X2-02 (Silver)",Nokia,Silver,2,2,5,1,3299,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8092,"Samsung C3312 Duos (Black)",Samsung,Black,1,1,5,1,3890,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8093,"Samsung C3312 Duos (Silver)",Samsung,Silver,1,1,5,1,3890,,"2012-11-08 03:03:00",Infibeam,Mobiles,1,1
+8094,"Samsung C3322 Metro Duos (Black)",Samsung,Black,1,1,4,7,3150,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8095,"Samsung E1200 Guru (Black)",Samsung,Black,1,1,4,1,990,,"2012-11-14 03:00:00",Infibeam,Mobiles,1,1
+8096,"Samsung E1200 Guru (Blue)",Samsung,Blue,1,1,4,1,990,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8097,"Samsung E1200 Guru (White)",Samsung,White,1,1,4,1,999,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8098,"Samsung E2232 Hero (Black)",Samsung,Black,1,1,3,3,2150,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8099,"Samsung E2252 Metro (Silver)",Samsung,Silver,1,1,,,2490,,"2012-10-31 06:23:00",Infibeam,Mobiles,7.36,1
+8100,"Samsung Galaxy Note (Blue)",Samsung,Blue,1,1,5,4,29990,,"2012-11-13 03:01:00",Infibeam,Mobiles,1,1
+8101,"Samsung Galaxy Note (White)",Samsung,White,1,1,5,4,29990,,"2012-11-03 07:20:00",Infibeam,Mobiles,5.82,1
+8102,"Samsung S5360 Galaxy Y (Black)",Samsung,Black,1,1,5,18,7090,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8103,"Samsung S5360 Galaxy Y (Grey)",Samsung,Grey,1,1,5,18,7090,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8104,"Samsung S5360 Galaxy Y (White)",Samsung,White,1,1,5,18,7090,,"2012-11-03 03:02:00",Infibeam,Mobiles,4.22,1
+8105,"Samsung S6102 Galaxy Y Duos (Black)",Samsung,Black,1,1,4,4,8490,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8106,"Samsung S6102 Galaxy Y Duos (White)",Samsung,White,1,1,4,4,8490,,"2012-11-02 03:03:00",Infibeam,Mobiles,1.15,1
+8107,"Samsung S6802 Galaxy Ace Duos (Black)",Samsung,Black,1,1,5,1,11900,,"2012-11-01 03:03:00",Infibeam,Mobiles,1,1
+8108,"Samsung S6802 Galaxy Ace Duos (White)",Samsung,White,1,1,5,1,11900,,"2012-11-14 03:01:00",Infibeam,Mobiles,1,1
+8109,"Samsung S7500 Galaxy Ace Plus (Blue)",Samsung,Blue,1,1,,,15500,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8110,"Sony Ericsson Xperia Ray ST 18i (Black)","Sony Ericsson",Black,1,1,2,1,14989,,"2012-11-15 04:42:00",Infibeam,Mobiles,0.17,1
+8111,"Sony Xperia S (Black)",Sony,Black,1,1,,,27999,,"2012-11-09 03:04:00",Infibeam,Mobiles,1,1
+8112,"Sony Xperia Tipo Dual (Black)",Sony,Black,1,1,3,1,9949,,"2012-11-09 03:05:00",Infibeam,Mobiles,1,1
+8113,"Spice M-6800 FLO (Black)",Spice,Black,1,1,,,2949,,"2012-11-14 03:03:00",Infibeam,Mobiles,1,1
+8114,"Spice M-6800 FLO (Blue)",Spice,Blue,1,2,,,2949,,"2012-11-12 03:02:00",Infibeam,Mobiles,1,1
+8115,"Spice Mi-310 (Brown)",Spice,Brown,2,2,5,3,3999,,"2012-11-07 06:43:00",Infibeam,Mobiles,4.12,1
